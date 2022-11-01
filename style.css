@@ -56,6 +56,11 @@ nav {
   padding: 10px 50px 5px;
   border-radius: 15px;
   background-color: #ffffff;
+  transition: all 0.5s ease-in-out;
+}
+.nav-button:hover {
+  background-color: #000000;
+  color: #ffffff;
 }
 .hero-container {
   position: relative;
@@ -120,6 +125,11 @@ span .square-pattern {
   border-radius: 10px;
   color: #615f5f;
   background-color: #ffffff;
+  transition: all 0.5s ease-in-out;
+}
+.button-email:hover {
+  background-color: #000000;
+  color: #ffffff;
 }
 .button-join {
   position: relative;
@@ -129,6 +139,11 @@ span .square-pattern {
   padding: 0px 5px;
   background-color: #000000;
   color: #ffffff;
+  transition: all 0.5s ease-in-out;
+}
+.button-join:hover {
+  color: #615f5f;
+  background-color: #ffffff;
 }
 .contact-heading {
   position: relative;
