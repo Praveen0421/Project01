@@ -10,6 +10,4 @@
 
 ![Project05](thumbnail.png)
 
-#### It took me 4hr to complete this project.
-
-**Live link**- [PROJECT01 ](https://street-style-dashboard.netlify.app/"project01")
+**Live link**- [PROJECT01 ](https://streetstyle-dashboard.netlify.app/)
